@@ -1,0 +1,458 @@
+Cmp-Mod V01 Created by Cvpcb (2015-04-23 BZR 5622)-product   date = Sat 25 Apr 2015 04:34:29 PM EDT
+
+BeginCmp
+TimeStamp = /54F1FCF1;
+Reference = D1;
+ValeurCmp = Cree_CLV1L-FKB-CHMMQEHBB7673673;
+IdModule  = MyLib_Lights-LEDs:PLCC-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F1FCFA;
+Reference = D2;
+ValeurCmp = Cree_CLV1L-FKB-CHMMQEHBB7673673;
+IdModule  = MyLib_Lights-LEDs:PLCC-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F1FCDF;
+Reference = D3;
+ValeurCmp = Cree_CLV1L-FKB-CHMMQEHBB7673673;
+IdModule  = MyLib_Lights-LEDs:PLCC-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F1FCE8;
+Reference = D4;
+ValeurCmp = Cree_CLV1L-FKB-CHMMQEHBB7673673;
+IdModule  = MyLib_Lights-LEDs:PLCC-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F1FCCD;
+Reference = D5;
+ValeurCmp = Cree_CLV1L-FKB-CHMMQEHBB7673673;
+IdModule  = MyLib_Lights-LEDs:PLCC-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F1FCD6;
+Reference = D6;
+ValeurCmp = Cree_CLV1L-FKB-CHMMQEHBB7673673;
+IdModule  = MyLib_Lights-LEDs:PLCC-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F1FCBB;
+Reference = D7;
+ValeurCmp = Cree_CLV1L-FKB-CHMMQEHBB7673673;
+IdModule  = MyLib_Lights-LEDs:PLCC-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F1FCC4;
+Reference = D8;
+ValeurCmp = Cree_CLV1L-FKB-CHMMQEHBB7673673;
+IdModule  = MyLib_Lights-LEDs:PLCC-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5532981D;
+Reference = D9;
+ValeurCmp = Cree_CLV1L-FKB-CHMMQEHBB7673673;
+IdModule  = MyLib_Lights-LEDs:PLCC-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /55329826;
+Reference = D10;
+ValeurCmp = Cree_CLV1L-FKB-CHMMQEHBB7673673;
+IdModule  = MyLib_Lights-LEDs:PLCC-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5532980B;
+Reference = D11;
+ValeurCmp = Cree_CLV1L-FKB-CHMMQEHBB7673673;
+IdModule  = MyLib_Lights-LEDs:PLCC-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /55329814;
+Reference = D12;
+ValeurCmp = Cree_CLV1L-FKB-CHMMQEHBB7673673;
+IdModule  = MyLib_Lights-LEDs:PLCC-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /553297F9;
+Reference = D13;
+ValeurCmp = Cree_CLV1L-FKB-CHMMQEHBB7673673;
+IdModule  = MyLib_Lights-LEDs:PLCC-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /55329802;
+Reference = D14;
+ValeurCmp = Cree_CLV1L-FKB-CHMMQEHBB7673673;
+IdModule  = MyLib_Lights-LEDs:PLCC-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /553297E7;
+Reference = D15;
+ValeurCmp = Cree_CLV1L-FKB-CHMMQEHBB7673673;
+IdModule  = MyLib_Lights-LEDs:PLCC-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /553297F0;
+Reference = D16;
+ValeurCmp = Cree_CLV1L-FKB-CHMMQEHBB7673673;
+IdModule  = MyLib_Lights-LEDs:PLCC-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /553C1428;
+Reference = J1;
+ValeurCmp = Prototyping_Pad_01;
+IdModule  = MyLib_Virtual-Board-Components:Prototyping_Pad_01;
+EndCmp
+
+BeginCmp
+TimeStamp = /553C16C3;
+Reference = J2;
+ValeurCmp = Prototyping_Pad_01;
+IdModule  = MyLib_Virtual-Board-Components:Prototyping_Pad_01;
+EndCmp
+
+BeginCmp
+TimeStamp = /553C1749;
+Reference = J3;
+ValeurCmp = Prototyping_Pad_01;
+IdModule  = MyLib_Virtual-Board-Components:Prototyping_Pad_01;
+EndCmp
+
+BeginCmp
+TimeStamp = /553C17D1;
+Reference = J4;
+ValeurCmp = Prototyping_Pad_01;
+IdModule  = MyLib_Virtual-Board-Components:Prototyping_Pad_01;
+EndCmp
+
+BeginCmp
+TimeStamp = /553C185D;
+Reference = J5;
+ValeurCmp = Prototyping_Pad_01;
+IdModule  = MyLib_Virtual-Board-Components:Prototyping_Pad_01;
+EndCmp
+
+BeginCmp
+TimeStamp = /553C18E9;
+Reference = J6;
+ValeurCmp = Prototyping_Pad_01;
+IdModule  = MyLib_Virtual-Board-Components:Prototyping_Pad_01;
+EndCmp
+
+BeginCmp
+TimeStamp = /553C1977;
+Reference = J7;
+ValeurCmp = Prototyping_Pad_01;
+IdModule  = MyLib_Virtual-Board-Components:Prototyping_Pad_01;
+EndCmp
+
+BeginCmp
+TimeStamp = /553C0F79;
+Reference = J8;
+ValeurCmp = Prototyping_Pad_01;
+IdModule  = MyLib_Virtual-Board-Components:Prototyping_Pad_01;
+EndCmp
+
+BeginCmp
+TimeStamp = /553C113A;
+Reference = J9;
+ValeurCmp = Prototyping_Pad_01;
+IdModule  = MyLib_Virtual-Board-Components:Prototyping_Pad_01;
+EndCmp
+
+BeginCmp
+TimeStamp = /553C11B2;
+Reference = J10;
+ValeurCmp = Prototyping_Pad_01;
+IdModule  = MyLib_Virtual-Board-Components:Prototyping_Pad_01;
+EndCmp
+
+BeginCmp
+TimeStamp = /553C122C;
+Reference = J11;
+ValeurCmp = Prototyping_Pad_01;
+IdModule  = MyLib_Virtual-Board-Components:Prototyping_Pad_01;
+EndCmp
+
+BeginCmp
+TimeStamp = /553C12A8;
+Reference = J12;
+ValeurCmp = Prototyping_Pad_01;
+IdModule  = MyLib_Virtual-Board-Components:Prototyping_Pad_01;
+EndCmp
+
+BeginCmp
+TimeStamp = /553C1326;
+Reference = J13;
+ValeurCmp = Prototyping_Pad_01;
+IdModule  = MyLib_Virtual-Board-Components:Prototyping_Pad_01;
+EndCmp
+
+BeginCmp
+TimeStamp = /553C13A6;
+Reference = J14;
+ValeurCmp = Prototyping_Pad_01;
+IdModule  = MyLib_Virtual-Board-Components:Prototyping_Pad_01;
+EndCmp
+
+BeginCmp
+TimeStamp = /553C2199;
+Reference = J15;
+ValeurCmp = Prototyping_Pad_01;
+IdModule  = MyLib_Virtual-Board-Components:Prototyping_Pad_01;
+EndCmp
+
+BeginCmp
+TimeStamp = /553C2251;
+Reference = J16;
+ValeurCmp = Prototyping_Pad_01;
+IdModule  = MyLib_Virtual-Board-Components:Prototyping_Pad_01;
+EndCmp
+
+BeginCmp
+TimeStamp = /553C22E3;
+Reference = J17;
+ValeurCmp = Prototyping_Pad_01;
+IdModule  = MyLib_Virtual-Board-Components:Prototyping_Pad_01;
+EndCmp
+
+BeginCmp
+TimeStamp = /553C2379;
+Reference = J18;
+ValeurCmp = Prototyping_Pad_01;
+IdModule  = MyLib_Virtual-Board-Components:Prototyping_Pad_01;
+EndCmp
+
+BeginCmp
+TimeStamp = /5529F4BF;
+Reference = Q1;
+ValeurCmp = Diodes-Inc_MMBT3904-7-F;
+IdModule  = MyLib_Transistors-SMT:SOT-23-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5529F470;
+Reference = Q2;
+ValeurCmp = Diodes-Inc_MMBT3904-7-F;
+IdModule  = MyLib_Transistors-SMT:SOT-23-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5529F01F;
+Reference = Q3;
+ValeurCmp = Diodes-Inc_MMBT3904-7-F;
+IdModule  = MyLib_Transistors-SMT:SOT-23-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5529F647;
+Reference = Q4;
+ValeurCmp = Diodes-Inc_MMBT3904-7-F;
+IdModule  = MyLib_Transistors-SMT:SOT-23-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5529F5B0;
+Reference = Q5;
+ValeurCmp = Diodes-Inc_MMBT3904-7-F;
+IdModule  = MyLib_Transistors-SMT:SOT-23-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5529F568;
+Reference = Q6;
+ValeurCmp = Diodes-Inc_MMBT3904-7-F;
+IdModule  = MyLib_Transistors-SMT:SOT-23-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5529F5F1;
+Reference = Q7;
+ValeurCmp = Diodes-Inc_MMBT3904-7-F;
+IdModule  = MyLib_Transistors-SMT:SOT-23-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5529F503;
+Reference = Q8;
+ValeurCmp = Diodes-Inc_MMBT3904-7-F;
+IdModule  = MyLib_Transistors-SMT:SOT-23-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5532AA24;
+Reference = Q9;
+ValeurCmp = Diodes-Inc_MMBT3904-7-F;
+IdModule  = MyLib_Transistors-SMT:SOT-23-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5532E5D8;
+Reference = Q10;
+ValeurCmp = Diodes-Inc_MMBT3904-7-F;
+IdModule  = MyLib_Transistors-SMT:SOT-23-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5532EBD8;
+Reference = Q11;
+ValeurCmp = Diodes-Inc_MMBT3904-7-F;
+IdModule  = MyLib_Transistors-SMT:SOT-23-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5532B250;
+Reference = R1;
+ValeurCmp = 00000220000_220_ERJ-6GEYJ221V;
+IdModule  = MyLib_Resistors-SMT-Singles:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5532B383;
+Reference = R2;
+ValeurCmp = 00000220000_220_ERJ-6GEYJ221V;
+IdModule  = MyLib_Resistors-SMT-Singles:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5532B3EE;
+Reference = R3;
+ValeurCmp = 00000220000_220_ERJ-6GEYJ221V;
+IdModule  = MyLib_Resistors-SMT-Singles:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5532B4E4;
+Reference = R4;
+ValeurCmp = 00000220000_220_ERJ-6GEYJ221V;
+IdModule  = MyLib_Resistors-SMT-Singles:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5532B603;
+Reference = R5;
+ValeurCmp = 00000220000_220_ERJ-6GEYJ221V;
+IdModule  = MyLib_Resistors-SMT-Singles:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5532B763;
+Reference = R6;
+ValeurCmp = 00000220000_220_ERJ-6GEYJ221V;
+IdModule  = MyLib_Resistors-SMT-Singles:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5532B7D6;
+Reference = R7;
+ValeurCmp = 00000220000_220_ERJ-6GEYJ221V;
+IdModule  = MyLib_Resistors-SMT-Singles:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5532B8DC;
+Reference = R8;
+ValeurCmp = 00000220000_220_ERJ-6GEYJ221V;
+IdModule  = MyLib_Resistors-SMT-Singles:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5532C207;
+Reference = R9;
+ValeurCmp = 00000220000_220_ERJ-6GEYJ221V;
+IdModule  = MyLib_Resistors-SMT-Singles:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5532C212;
+Reference = R10;
+ValeurCmp = 00000220000_220_ERJ-6GEYJ221V;
+IdModule  = MyLib_Resistors-SMT-Singles:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5532C21D;
+Reference = R11;
+ValeurCmp = 00000220000_220_ERJ-6GEYJ221V;
+IdModule  = MyLib_Resistors-SMT-Singles:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5532C228;
+Reference = R12;
+ValeurCmp = 00000220000_220_ERJ-6GEYJ221V;
+IdModule  = MyLib_Resistors-SMT-Singles:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5532C233;
+Reference = R13;
+ValeurCmp = 00000220000_220_ERJ-6GEYJ221V;
+IdModule  = MyLib_Resistors-SMT-Singles:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5532C23E;
+Reference = R14;
+ValeurCmp = 00000220000_220_ERJ-6GEYJ221V;
+IdModule  = MyLib_Resistors-SMT-Singles:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5532C249;
+Reference = R15;
+ValeurCmp = 00000220000_220_ERJ-6GEYJ221V;
+IdModule  = MyLib_Resistors-SMT-Singles:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5532C254;
+Reference = R16;
+ValeurCmp = 00000220000_220_ERJ-6GEYJ221V;
+IdModule  = MyLib_Resistors-SMT-Singles:0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5532CF7E;
+Reference = SW1;
+ValeurCmp = Solder_Jumper_1Way;
+IdModule  = MyLib_Virtual-Board-Components:Solder_Jumper_1Way_Small;
+EndCmp
+
+BeginCmp
+TimeStamp = /5532E5E7;
+Reference = SW2;
+ValeurCmp = Solder_Jumper_1Way;
+IdModule  = MyLib_Virtual-Board-Components:Solder_Jumper_1Way_Small;
+EndCmp
+
+BeginCmp
+TimeStamp = /5532EBE7;
+Reference = SW3;
+ValeurCmp = Solder_Jumper_1Way;
+IdModule  = MyLib_Virtual-Board-Components:Solder_Jumper_1Way_Small;
+EndCmp
+
+BeginCmp
+TimeStamp = /5529CD63;
+Reference = U1;
+ValeurCmp = Texas-Instruments_CD74HC164M;
+IdModule  = MyLib_ICs_SMT:SOIC-14;
+EndCmp
+
+EndListe
